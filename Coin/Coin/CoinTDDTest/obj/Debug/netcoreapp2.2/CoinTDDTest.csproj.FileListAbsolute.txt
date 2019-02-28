@@ -1,0 +1,17 @@
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Coin/Coin/CoinTDDTest/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Coin/Coin/CoinTDDTest/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Coin/Coin/CoinTDDTest/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Coin/Coin/CoinTDDTest/bin/Debug/netcoreapp2.2/CoinTDDTest.deps.json
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Coin/Coin/CoinTDDTest/bin/Debug/netcoreapp2.2/CoinTDDTest.runtimeconfig.json
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Coin/Coin/CoinTDDTest/bin/Debug/netcoreapp2.2/CoinTDDTest.runtimeconfig.dev.json
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Coin/Coin/CoinTDDTest/bin/Debug/netcoreapp2.2/CoinTDDTest.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Coin/Coin/CoinTDDTest/bin/Debug/netcoreapp2.2/CoinTDDTest.pdb
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Coin/Coin/CoinTDDTest/bin/Debug/netcoreapp2.2/CoinTDD.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Coin/Coin/CoinTDDTest/bin/Debug/netcoreapp2.2/CoinTDD.pdb
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Coin/Coin/CoinTDDTest/obj/Debug/netcoreapp2.2/CoinTDDTest.csprojAssemblyReference.cache
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Coin/Coin/CoinTDDTest/obj/Debug/netcoreapp2.2/CoinTDDTest.csproj.CoreCompileInputs.cache
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Coin/Coin/CoinTDDTest/obj/Debug/netcoreapp2.2/CoinTDDTest.AssemblyInfoInputs.cache
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Coin/Coin/CoinTDDTest/obj/Debug/netcoreapp2.2/CoinTDDTest.AssemblyInfo.cs
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Coin/Coin/CoinTDDTest/obj/Debug/netcoreapp2.2/CoinTDDTest.csproj.CopyComplete
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Coin/Coin/CoinTDDTest/obj/Debug/netcoreapp2.2/CoinTDDTest.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Coin/Coin/CoinTDDTest/obj/Debug/netcoreapp2.2/CoinTDDTest.pdb

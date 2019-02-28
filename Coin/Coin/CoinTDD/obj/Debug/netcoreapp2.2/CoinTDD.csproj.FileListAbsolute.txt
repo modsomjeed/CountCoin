@@ -1,0 +1,11 @@
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Coin/Coin/CoinTDD/bin/Debug/netcoreapp2.2/CoinTDD.deps.json
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Coin/Coin/CoinTDD/bin/Debug/netcoreapp2.2/CoinTDD.runtimeconfig.json
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Coin/Coin/CoinTDD/bin/Debug/netcoreapp2.2/CoinTDD.runtimeconfig.dev.json
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Coin/Coin/CoinTDD/bin/Debug/netcoreapp2.2/CoinTDD.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Coin/Coin/CoinTDD/bin/Debug/netcoreapp2.2/CoinTDD.pdb
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Coin/Coin/CoinTDD/obj/Debug/netcoreapp2.2/CoinTDD.csprojAssemblyReference.cache
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Coin/Coin/CoinTDD/obj/Debug/netcoreapp2.2/CoinTDD.csproj.CoreCompileInputs.cache
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Coin/Coin/CoinTDD/obj/Debug/netcoreapp2.2/CoinTDD.AssemblyInfoInputs.cache
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Coin/Coin/CoinTDD/obj/Debug/netcoreapp2.2/CoinTDD.AssemblyInfo.cs
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Coin/Coin/CoinTDD/obj/Debug/netcoreapp2.2/CoinTDD.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Coin/Coin/CoinTDD/obj/Debug/netcoreapp2.2/CoinTDD.pdb
